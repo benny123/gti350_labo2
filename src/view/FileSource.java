@@ -1,4 +1,4 @@
-package gti310.tp2.io;
+package view;
 
 import java.io.BufferedInputStream;
 import java.io.DataInputStream;

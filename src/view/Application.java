@@ -1,4 +1,4 @@
-package gti310.tp2;
+package view;
 
 public class Application {
 

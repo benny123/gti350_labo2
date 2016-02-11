@@ -1,4 +1,4 @@
-package gti310.tp2.audio;
+package view;
 
 /**
  * An AudioFilter object will modify the input data and produce new values.
